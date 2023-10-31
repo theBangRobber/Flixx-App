@@ -182,8 +182,8 @@ section.now-playing {
   background: url(../images/showcase-bg.jpg) no-repeat center center/cover;
 }
 
-section h2 {
-  margin: 20px 0;
+section h3 {
+  margin: 30px 0;
   text-align: center;
   text-transform: uppercase;
 }
